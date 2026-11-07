@@ -2,7 +2,7 @@
 
 Data published for the [Euboulia](https://github.com/alexb-joat/euboulia) browser extension. No code runs from here.
 
-- `catalog.json`: services, selectors, plans, models with prices, context, status and effort levels. Generated 2026-11-04; provider facts dated 2026-10-30.
+- `catalog.json`: services, selectors, plans, models with prices, context, status and effort levels. Generated 2026-11-07; provider facts dated 2026-10-30.
 - `provider-facts.json`: the figures read from the providers' own documentation, each with its source URL and date.
 
 The extension downloads `catalog.json` from
